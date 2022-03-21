@@ -1,4 +1,4 @@
-# [Spotrybe Project](https://rafaelaugustscherer.github.io/Projeto_Spotrybe)
+# [Spotrybe Project](https://rafaelaugustscherer.github.io/Spotrybe)
 
 ## **This project was made in collaboration with [Effolex](https://github.com/Effolex/), [Ply3r](https://github.com/Ply3r) and [Drb-Diego](https://github.com/Drb-Diego).**  
 
@@ -6,7 +6,7 @@ It was done within 2 days of intense coding as a challenge proposed by [Trybe](h
 The project make requisitions to **Spotify's Web API** to get various informations such as Popular Playlists, Musics by name & General User Information.
 
 ## How to Access
-https://rafaelaugustscherer.github.io/Projeto_Spotrybe
+https://rafaelaugustscherer.github.io/Spotrybe
 
 ## Sign Up Form
 
